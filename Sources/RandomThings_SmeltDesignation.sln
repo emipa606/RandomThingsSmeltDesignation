@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomThings_SmeltDesignation", "RandomThings_SmeltDesignation\RandomThings_SmeltDesignation.csproj", "{EE57A0A0-7821-40AD-9D45-DB6319B51091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|x86.ActiveCfg = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|x86.Build.0 = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD840D0A-BA59-4120-BA8C-6193B9FCA3E6}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.VersionControlPolicy = $1
+		$1.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal

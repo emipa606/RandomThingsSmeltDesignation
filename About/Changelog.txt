@@ -1,0 +1,4 @@
+# Changelog for RandomThingsSmeltDesignation
+
+1.0.1.0 - Updated to 1.2/1.3
+

@@ -1,9 +1,65 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RandomThings - SmeltDesignation</name>
-	<author>Madolinn</author>
-	<supportedVersions><li>1.0</li></supportedVersions>
-	<url></url>
-	<description>Adds a tool to designate specific items to smelt, and a bill for the smelter to process them.
-	</description>
+  <name>RandomThings - SmeltDesignation (Continued)</name>
+  <packageId>Mlie.RandomThingsSmeltDesignation</packageId>
+  <author>Madolinn</author>
+  <url>https://github.com/emipa606/RandomThingsSmeltDesignation</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of Madolinns mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1241579445
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/RandomThingsSmeltDesignation][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h1] History [/h1]
+
+3/30/20 : Updated: We have done it. Version 1.1 compatible.
+
+2/6/19 : Updated: Added burning apparel at a crematorium. Added hauling job requirement. Probably will break things again. Sorry.
+
+2/4/19 : It literally broke everything. [b]Fixed?[/b]
+
+2/2/19 : Updated to V1.0. If it breaks something tell me.
+
+[h1] What does this do. [/h1]
+
+Adds a tool to designate specific items to smelt, and a bill for the smelter to process them.
+
+The tool can be found under the Orders tab. Simply drag a box or click on items.
+
+A smelter must still be built, and a bill must be placed to smelt the items marked. This allows you to suspend smelting easily.
+
+
+Smelt Orders can be cancelled by clicking on an item and pressing cancel, or by using the vanilla order cancel multi-select tool.
+
+Items moved from hauling have designations removed. This is a vanilla feature. It will remove your smelting order if it's moved prior to smelteing.
+
+Source Files: https://github.com/madolinn/RimWorld_SmeltDesignations
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
