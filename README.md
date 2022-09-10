@@ -35,8 +35,6 @@ Smelt Orders can be cancelled by clicking on an item and pressing cancel, or by 
 
 Items moved from hauling have designations removed. This is a vanilla feature. It will remove your smelting order if it's moved prior to smelteing.
 
-Source Files: https://github.com/madolinn/RimWorld_SmeltDesignations
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -47,6 +45,7 @@ Source Files: https://github.com/madolinn/RimWorld_SmeltDesignations
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
