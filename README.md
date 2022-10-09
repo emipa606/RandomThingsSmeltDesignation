@@ -5,6 +5,8 @@
 Update of Madolinns mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1241579445
 
+- Fixed the designator, smeltable go in the smelter, burnable go in the crematorium
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	

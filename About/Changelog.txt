@@ -1,5 +1,8 @@
 # Changelog for RandomThingsSmeltDesignation
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.3.1 - Fixed the designator, smeltable items will go in the smelter, burnable go in the crematorium
 
 
