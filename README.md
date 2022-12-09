@@ -51,3 +51,4 @@ Items moved from hauling have designations removed. This is a vanilla feature. I
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2591787798]Last updated 2022-12-09
