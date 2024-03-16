@@ -1,19 +1,19 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomThings_SmeltDesignation", "RandomThings_SmeltDesignation\RandomThings_SmeltDesignation.csproj", "{EE57A0A0-7821-40AD-9D45-DB6319B51091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any = Debug|Any
+		Release|Any = Release|Any
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|x86.ActiveCfg = Release|Any CPU
-		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|x86.Build.0 = Release|Any CPU
-		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|x86.ActiveCfg = Release|Any CPU
-		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|x86.Build.0 = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|Any.ActiveCfg = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Debug|Any.Build.0 = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|Any.ActiveCfg = Release|Any CPU
+		{EE57A0A0-7821-40AD-9D45-DB6319B51091}.Release|Any.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
