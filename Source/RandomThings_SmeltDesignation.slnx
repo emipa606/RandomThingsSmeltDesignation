@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="RandomThings_SmeltDesignation/RandomThings_SmeltDesignation.csproj" />
+</Solution>

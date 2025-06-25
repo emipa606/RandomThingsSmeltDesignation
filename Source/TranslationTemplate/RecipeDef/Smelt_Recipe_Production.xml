@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: burn designated objects -->
+  <BurnDesignatedThing.label>burn designated objects</BurnDesignatedThing.label>
+  <!-- EN: Burn designated things. -->
+  <BurnDesignatedThing.description>Burn designated things.</BurnDesignatedThing.description>
+  <!-- EN: Burning designated thing. -->
+  <BurnDesignatedThing.jobString>Burning designated thing.</BurnDesignatedThing.jobString>
+  <!-- EN: smelt designated objects -->
+  <SmeltDesignatedThing.label>smelt designated objects</SmeltDesignatedThing.label>
+  <!-- EN: Smelt down designated things that return products. -->
+  <SmeltDesignatedThing.description>Smelt down designated things that return products.</SmeltDesignatedThing.description>
+  <!-- EN: Smelting designated thing. -->
+  <SmeltDesignatedThing.jobString>Smelting designated thing.</SmeltDesignatedThing.jobString>
+</LanguageData>

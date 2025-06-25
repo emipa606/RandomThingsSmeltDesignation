@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: allow designated smeltable -->
+  <AllowSmeltableDesignations.label>allow designated smeltable</AllowSmeltableDesignations.label>
+  <!-- EN: a big ol block of test text -->
+  <AllowSmeltableDesignations.description>a big ol block of test text</AllowSmeltableDesignations.description>
+</LanguageData>

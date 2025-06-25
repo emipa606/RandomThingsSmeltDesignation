@@ -18,7 +18,7 @@ public class Designator_SmeltItem : Designator
         soundSucceeded = SoundDefOf.Designate_Claim;
     }
 
-    public override int DraggableDimensions => 2;
+    public override DrawStyleCategoryDef DrawStyleCategory => DrawStyleCategoryDefOf.Orders;
 
     public override AcceptanceReport CanDesignateCell(IntVec3 loc)
     {
