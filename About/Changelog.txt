@@ -1,5 +1,8 @@
 # Changelog for RandomThingsSmeltDesignation
 
+1.6.1 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926]Medieval Overhaul[/url]
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

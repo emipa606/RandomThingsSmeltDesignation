@@ -42,6 +42,7 @@
     </forceHiddenSpecialFilters>
     <recipeUsers>
       <li>ElectricSmelter</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Furnace</li>
     </recipeUsers>
   </RecipeDef>
   <RecipeDef>
@@ -86,6 +87,7 @@
     </forceHiddenSpecialFilters>
     <recipeUsers>
       <li>ElectricCrematorium</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_Furnace</li>
     </recipeUsers>
   </RecipeDef>
 </Defs>

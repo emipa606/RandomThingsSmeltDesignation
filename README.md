@@ -1,6 +1,6 @@
 # [RandomThings - SmeltDesignation (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2591787798)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Madolinns mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1241579445
@@ -9,9 +9,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1241579445
 - Added designator on items for easier smelting, added Harmony as requirement.
 - From 1.5 smelting can only be done of things defined to be smeltable by the game, this is a known limitation 
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 #  History 
 
@@ -38,13 +38,13 @@ Smelt Orders can be cancelled by clicking on an item and pressing cancel, or by 
 
 Items moved from hauling have designations removed. This is a vanilla feature. It will remove your smelting order if it's moved prior to smelteing.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -52,4 +52,4 @@ Items moved from hauling have designations removed. This is a vanilla feature. I
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RandomThingsSmeltDesignation?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2591787798) | tags:  designation
+[![Image](https://img.shields.io/github/v/release/emipa606/RandomThingsSmeltDesignation?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2591787798) | tags: designation
